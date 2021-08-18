@@ -457,7 +457,7 @@ flex-basis:77%;
 }
 /*-- dropdown --*/
 /* headder */
-@media all and (max-width:1440px){
+@media all and (max-width:2500px){
 .main-top {
     min-height: 800px;
     height:100vh;
